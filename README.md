@@ -10,8 +10,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=democat3457&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=democat3457&label=Profile%20Views&color=6&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/democat) 
 
