@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=democat3457&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=democat3457&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=democat3457&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=democat3457&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=democat3457&theme=discord&no-frame=false&no-bg=false&margin-w=4)
